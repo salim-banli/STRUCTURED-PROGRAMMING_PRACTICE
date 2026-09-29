@@ -81,7 +81,17 @@ output of x=5 @@@@@
 How to program(9th edition),page224,exercise 4.8
 ## 08_interactive_program
 Description:
-Prints a square matrix with @ on the diagonal where row == column. Demonstrates nested loops with if-else inside.Concepts Used:Nested for loops y for rows, z for columnsif(y==z) decision inside loopprintf for pattern printingHow it works:User enters x (size, 1-10)Outer loop y=1 to x for rowsInner loop z=1 to x for columnsIf y==z prints @, else prints spaceAfter inner loop prints newline
-
+How it works:Initializes aCount=0 and bCount=0User enters gradesWhile grade is not EOF, switch checks itIf A or a, increases aCountIf B or b, increases bCountIf other letter, shows Incorrect grade messageAt end, prints total of A and total of BExample Output:
+Enter the letter grades:
+Enter the EOF character to end input:
+A
+b
+A
+C
+Incorrect grade letter entered
+Enter correct grade:
+BTotal of each grade letter are:
+A: 2
+B: 2
 
 
