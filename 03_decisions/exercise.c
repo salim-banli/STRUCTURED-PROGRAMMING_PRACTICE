@@ -8,11 +8,11 @@ printf("Enter nmu2:");
 scanf("%d",&num2);
 if(num1==num2)
 {
-printf("\n number1 is equal to number2\n");
+printf("\n number1 %d is equal to number2 %d \n",num1,num2);
 }
 else if(num1!=num2)
 {
-printf("\n number1 is not equal to number2\n");
+printf("\n number1 %d is not equal to number2 %d\n",num1,num2);
 }
 else
 {
