@@ -32,5 +32,10 @@ source     = How to program(9th edition) page122,exercise 2.5
 *Example  =output 1,(2,3)
 source  =How to program(9th edition) page229 exercise 4.36
 
-##
+## 05_loop_calculation
+*Description  =calculates amount with compound interest for 5 years.
+*Concept  = double,#include <math.h> ,for loop,format specifiers,formula pow
+*HOW IT WORKS =sets principle,prints header,loops year from 1 to 5,Each loop calculates amount, prints year and amount with two decimal places 
+Example  =output year 1: Amount on deposit 1050.00
+source   = How to program(9th edition) page193,example 4.4
 
