@@ -80,6 +80,8 @@ output of x=5 @@@@@
 *source
 How to program(9th edition),page224,exercise 4.8
 ## 08_interactive_program
+Description:
+Prints a square matrix with @ on the diagonal where row == column. Demonstrates nested loops with if-else inside.Concepts Used:Nested for loops y for rows, z for columnsif(y==z) decision inside loopprintf for pattern printingHow it works:User enters x (size, 1-10)Outer loop y=1 to x for rowsInner loop z=1 to x for columnsIf y==z prints @, else prints spaceAfter inner loop prints newline
 
 
 
