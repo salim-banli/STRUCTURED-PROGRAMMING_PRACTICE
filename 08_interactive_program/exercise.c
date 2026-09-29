@@ -10,12 +10,12 @@ while((grade = getchar())!=EOF)
 {
 switch(grade)
 {
-case "A":
-case "a":
+case 'A':
+case 'a':
 ++aCount;
 break;
-case "B":
-case "b":
+case 'B':
+case 'b':
 ++bCount;
 break;
   default;
