@@ -81,7 +81,17 @@ output of x=5 @@@@@
 How to program(9th edition),page224,exercise 4.8
 ## 08_interactive_program
 Description:
-How it works:Initializes aCount=0 and bCount=0User enters gradesWhile grade is not EOF, switch checks itIf A or a, increases aCountIf B or b, increases bCountIf other letter, shows Incorrect grade messageAt end, prints total of A and total of BExample Output:
+Interactive program that counts A and B grades entered by the user until EOF. 
+*Concepts Used:
+getchar() - reads single character input
+EOF 
+while loop
+switch-case 
+case 'A': 
+break
+default
+How it works:
+Initializes aCount=0 and bCount=0User enters gradesWhile grade is not EOF, switch checks itIf A or a, increases aCountIf B or b, increases bCountIf other letter, shows Incorrect grade messageAt end, prints total of A and total of BExample Output:
 Enter the letter grades:
 Enter the EOF character to end input:
 A
@@ -93,5 +103,7 @@ Enter correct grade:
 BTotal of each grade letter are:
 A: 2
 B: 2
+source:
+How to program(9th edition),page 196 ,example 4.6
 
 
