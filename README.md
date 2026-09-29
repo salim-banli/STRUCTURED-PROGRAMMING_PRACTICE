@@ -11,4 +11,8 @@ Return 0 to show success
 *Example  = output
 source =How to program(9th eidtion),page108,example 2.2
 
-##
+## 02_input_process_output
+*Description  =This program demonstrates input in C.The user enters two integer numbers using scanf and stores them  in variable.
+*Concepts used = int,printf ,scanf
+*How it works  = Declares two integer variables,prompts the user to enter the number,Reads first number into number1,and second number into number2 program ends
+
