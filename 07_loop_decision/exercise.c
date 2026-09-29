@@ -9,9 +9,9 @@ for(y=1;y<=x;y++)
 for(z=1;z<=x;z++)
 {
 if(y==z)
-printf("%c","@");
+printf("@");
 else
-  print("");
+  printf("");
 }
 printf("\n");
 }
