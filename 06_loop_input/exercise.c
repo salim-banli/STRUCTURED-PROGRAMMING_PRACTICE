@@ -3,7 +3,7 @@ int main(void)
 {
   int first_count=1;
 while (first_count <= 10)
-  int second_count=1;
+  { int second_count=1;
 while (second_count<=first_count)
 {
 printf("*  ");
