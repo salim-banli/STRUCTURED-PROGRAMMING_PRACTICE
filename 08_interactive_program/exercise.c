@@ -18,7 +18,7 @@ case 'B':
 case 'b':
 ++bCount;
 break;
-  default;
+  default:
   printf("Incorrect grade letter entered \n");
   puts("Enter correct grade:");
   break;
