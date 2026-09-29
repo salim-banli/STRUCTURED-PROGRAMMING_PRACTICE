@@ -40,8 +40,11 @@ Example  =output year 1: Amount on deposit 1050.00
 source   = How to program(9th edition) page193,example 4.4
 ## 06_oop_input
 *Description  =prints a tright tiangle of stars using nest while loops
+*Concepts   =while loop,nested ,Counters,while loop
 *How it works  =first_count starts at 1, loops while <=10 (rows)For each row, second_count starts at 1Inner while prints "_ " while second_count <= first_count ,So row 1 prints 1 star, row 2 prints 2 stars.After inner loop, new line and first_count++
 *Example = output *
 source  = How to program(9thedition),page 180,exercise 3.29
+## 07_loop_decision
+*Description =prints
 
 
