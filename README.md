@@ -25,5 +25,12 @@ Example = output Enter number1:2, Enter number2:6
 Example   = Enter num1:5 ,Enter num2:5 prints as number1 is equal to number2
 source     = How to program(9th edition) page122,exercise 2.5
 
-## 04_
+## 04_Basic_loop
+*Description =This program prints numbers in a triangular pattern using nested loops
+*Concepts  = for loop,nested loop,counter variable,
+*How  it works  = a starts at 1,outer loop i=1:inner loop runs 1time,outer loop i=2:inner loop runs 2times,outer loop i=3:inner loop runs 3times,outer loop i=4:inner  loop runs 4times,Ater each inner loop print("\n") moves to the next line
+*Example  =output 1,(2,3)
+source  =How to program(9th edition) page229 exercise 4.36
+
+##
 
